@@ -63,7 +63,7 @@ author:
   bio    : "Hello, I am a second-year Master of Economics student at University of Wisconsin - Madison <br><br>lee963@wisc.edu<br>jaeconanwisc@gmail.com"
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin-in"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/econjhl/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -73,7 +73,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin-in"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/econjhl/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
