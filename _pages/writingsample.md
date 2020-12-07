@@ -1,5 +1,7 @@
 ---
-permalink: /cv/
-title: "CV"
+permalink: /writingsample/
+title: "Writing Sample"
 ---
-Hello
+Hello. writing sample
+
+# 1. 706

@@ -1,6 +1,5 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
-author_profile: true
+permalink: /cv/
+title: "CV"
 ---
+# you can find cv here
