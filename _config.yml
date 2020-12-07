@@ -60,10 +60,10 @@ plugins:
 author:
   name   : "Jae Hoon Lee"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello, I am a second-year Master of Economics student at University of Wisconsin - Madison <br>lee963@wisc.edu"
+  bio    : "Hello, I am a second-year Master of Economics student at University of Wisconsin - Madison <br><br>lee963@wisc.edu<br>jaeconanwisc@gmail.com"
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/econjhl/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -73,7 +73,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/econjhl/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
