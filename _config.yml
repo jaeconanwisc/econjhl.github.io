@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jae Hoon Lee"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello, I am a second-year Master of Economics student at University of Wisconsin - Madison <br><br>lee963@wisc.edu<br>jaeconanwisc@gmail.com"
+  bio    : "Hello, I am a second-year Master of Economics student at University of Wisconsin - Madison <br><br>Student Email: lee963@wisc.edu<br>Gmail: jaeconanwisc@gmail.com"
   links:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
