@@ -1,6 +1,4 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "Writing Sample"
     url: /writingsample/
   - title: "CV"
